@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khashayarplus3
-- 👀 I’m interested in Fintech
-- 💞️ I’m looking to collaborate on projects that involve using Python, Stata, Excel & SQL 
+- 👀 I’m interested in Finance, Data Analysis and Fintech
+- 💞️ I’m looking to collaborate on projects that involve using Python, SQL and VBA 
 - 📫 How to reach me: IM: khashayar2000z@gmail.com
 
 <!---
